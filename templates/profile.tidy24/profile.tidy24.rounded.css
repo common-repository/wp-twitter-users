@@ -1,0 +1,22 @@
+.fftuprofile {
+	-moz-border-radius:15px;
+	-webkit-border-radius:12px;
+}
+
+div.fftw_content {
+	-moz-border-radius:12px;
+	-webkit-border-radius:12px;
+	-moz-border-radius-topleft:0px;
+	-moz-border-radius-topright:0px;
+	-webkit-border-top-left-radius:0px;
+	-webkit-border-top-right-radius:0px;
+}
+
+div.fftw_user-info {
+	-moz-border-radius:14px;
+	-webkit-border-radius:14px;
+	-moz-border-radius-bottomright:0px;
+	-moz-border-radius-bottomleft:0px;
+	-webkit-border-bottom-right-radius:0px;
+	-webkit-border-bottom-left-radius:0px;
+}

@@ -1,0 +1,6 @@
+span.ffTwitterUser {
+	font:8pt "Trebuchet MS",verdana, arial,tahoma;line-height:16px;vertical-align:baseline;width:140px;
+	margin:0 5px 5px 0;white-space:nowrap;padding:0 3px 0 0;display:inline-block;
+}
+span.ffTwitterUser a {text-decoration:none;margin:0;padding:0;}
+span.ffTwitterUser img {width:16px;height:16px;vertical-align:middle;padding:0;margin:0 3px 0 0;display:block;float:left;}

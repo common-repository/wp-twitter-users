@@ -1,0 +1,1 @@
+This is a clean borderless template with a fixed width for each object.

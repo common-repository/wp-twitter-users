@@ -1,0 +1,1 @@
+twitter profile template width colors derived from the user's own settings.

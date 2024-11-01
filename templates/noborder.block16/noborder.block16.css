@@ -1,0 +1,5 @@
+.ffTwitterUser {
+	margin:0 5px 5px 0;white-space:nowrap;padding:0;display:inline-block;width:145px;overflow:hidden;
+}
+.ffTwitterUser a {text-decoration:none;}
+.ffTwitterUser img {vertical-align:middle;width:16px;height:16px;}

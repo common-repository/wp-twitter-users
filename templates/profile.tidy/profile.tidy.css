@@ -1,0 +1,91 @@
+.fftuprofile {display:inline-block;
+	font:normal 12px arial,  "Trebuchet MS", verdana, sans-serif;
+/*	float:left; */
+	width:200px;
+	height:150px;
+	padding:2px;
+	text-align:left;
+	color:#000;
+	overflow:hidden;
+	margin:0;
+}
+.fftuprofile a, .fftuprofile a:visited {
+	color:#46aed9;
+	text-decoration:none;
+}
+.fftuprofile a:hover {
+	color:#000;
+	text-decoration:none;
+}
+.fftuprofile div {
+	margin:0;padding:0;
+}
+
+div.fftw_content {
+	background-color:#fff;
+	word-wrap:break-word;
+	padding:2px 2px 0 3px;
+	margin:0;
+	width:195px;
+	height:88px;
+	text-align:left;float:left;
+}
+div.fftw_wrapper {
+	padding:0;
+	margin:0;
+	width:100%;
+
+}
+.fftw_status-body {
+	display:block;
+	font-size:11px;
+	padding:0;width:100%;
+}
+span.fftw_profile_title{
+	border-bottom:1px solid #ddf;
+	color:#333;
+}
+.fftw_entry-content {
+	color:#000;
+	margin-left:3px;
+	background-color:#fff;
+	font-weight:500;
+	line-height:16px;
+	padding:0;
+	overflow:hidden;
+}
+div.fftw_user-info {
+	float:left;
+	height:100px;
+	margin:0 0 0 0;
+	padding:0 0;
+	width:200px;
+	overflow:hidden;
+	text-align:left;
+	height:60px;font-size:12px;
+}
+.fftw_clear {
+	clear:both
+}
+div.fftw_thumb {
+	margin:4px 0 0 7px;
+	padding:0;
+text-align:left;width:100%;
+}
+div.fftw_thumb img {
+	max-width:48px;
+	width:48px;
+	height:48px;
+	vertical-align:middle;
+	margin:0 5px 0 0;
+	border:none;
+	padding:2px;
+	float:left;
+}
+.fftw_screen-name a:visited , .fftw_screen-name a {font-weight:bold;display:block;margin-top:5px;}
+.fftw_screen-name a:hover {#000}
+
+.fftw_full-name {text-shadow: 0 0 5px #fff;color:#000;
+	font-size:10px;
+	margin:0;padding:0;
+}
